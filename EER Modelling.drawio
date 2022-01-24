@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T17:06:36.123Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 OPR/83.0.4254.19" etag="PzL8XsIoQUrv9ijkU1jm" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-24T17:06:42.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 OPR/83.0.4254.19" etag="S_MNqSKIHsviNcxs1HGR" version="16.4.5" type="github">
   <diagram id="vh4LzMmaLrvV3J_B-Y8Z" name="Page-1">
     <mxGraphModel dx="998" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
             <mxPoint x="450" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g_Fo491Jodc6aMjxL6Fi-19" value="Buyer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g_Fo491Jodc6aMjxL6Fi-19" value="Buyer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="60" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="g_Fo491Jodc6aMjxL6Fi-20" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=none;exitPerimeter=0;" edge="1" parent="1" source="g_Fo491Jodc6aMjxL6Fi-18" target="g_Fo491Jodc6aMjxL6Fi-19">
